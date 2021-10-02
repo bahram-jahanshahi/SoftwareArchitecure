@@ -1,12 +1,7 @@
 |  |  |
 | ------------- | ------------- |
-| ![Architecture](./documents/images/archunit-logo.png) | ![Architecture2](./documents/images/archunit-logo.png) | 
+| ![Architecture](./documents/images/archunit-logo.png) | ![Architecture2](./documents/images/spring-boot.webp) | 
 # ArchUnit and Springboot Hello World Project
 This is the first project to understand how ArchTest framework can be used within a springboot project. 
 ## Test Three Layers Architecture
-It's needed to test whether three layers design is followed by developer or not.  
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| ![Architecture](./documents/images/archunit-logo.png) | ![Architecture2](./documents/images/archunit-logo.png) | 
+It's needed to test whether three layers design is followed by developer or not.   
